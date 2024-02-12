@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\bin\Debug\masked ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\bin\Debug\masked ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\bin\Debug\masked ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\obj\Debug\masked ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\obj\Debug\masked ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\obj\Debug\masked_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\obj\Debug\masked_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\obj\Debug\masked ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\obj\Debug\masked ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\obj\Debug\masked ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM\masked ornek\masked ornek\obj\Debug\masked ornek.pdb
